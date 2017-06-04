@@ -5,3 +5,4 @@ https://github.com/vue-bulma/vue-admin
 
 https://justineo.github.io/vue-echarts/demo/
 https://github.com/Justineo/vue-echarts
+https://vuejsfeed.com/blog/vue-echarts-3
